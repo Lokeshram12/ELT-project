@@ -1,0 +1,9 @@
+
+Raw Data:
+
+-- handling foreign characters
+--remove duplicates
+--new table for listed in,director,country,characters--data type conversion for date added
+--populate missing values in country,duration columns
+--populate rest of the nulls as not_available
+--drop columns director,listed_in,country,cast

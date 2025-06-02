@@ -1,0 +1,1 @@
+A cursor acts as a control structure to interact with the database, allowing you to execute SQL queries and fetch results.
